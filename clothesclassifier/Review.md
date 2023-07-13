@@ -1,5 +1,6 @@
 Questions:
 
+
 Review/Takeaway: 
 It was a good overview on deeplearning,
  reviewing data --> Preprocessing
@@ -9,3 +10,8 @@ It was a good overview on deeplearning,
 
 what I need to learn:
 Keras, matplotlib for visualizing graphs and images , sequential()
+
+
+Resources:
+https://www.tensorflow.org/tutorials/keras/classification
+referenced numpy for np.array 
